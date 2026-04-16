@@ -90,7 +90,7 @@ All five methods compared:
 ## Uncertainty Map Example
 
 1. The uncertainty maps highlight and remove ambiguous regions:  
-![UQ Map](/viz/uq_map.png)
+![UQ_map](/viz/UQ_map.png)
 
 2. We can compare HU(plaque intensity) map, probability map and uncertainty map:
 ![inflammogram](/viz/inflammogram.png)
